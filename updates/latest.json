@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEtPMmp1cS9aRUhOeFpGcFBXMGZEUkh4YnlmT1dMbVRqcHpFK1dCVUUzdkprQkFBZkV2ckNUb2N4VkhhaEFyazhscm9wWFBWakhpeWlvSkQ0RGF5Vmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU3OTY0CWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS4zLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMy4wClViR0RFY0c0TU9IL0JnQlpYTDlTSENXMjc4aFVuYVRGd1NWemJKMkFpdWM1R3U1RUs5VWdYeHVSNFJIMkZoc3VpR1RwdmIrWHNZTE9rV2czZU95N0FBPT0K",
-                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.3.0/Bernas-Soundpacks-Setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEUweGc0cVdGYkJ6VXA0c2txUWE5QU9pUFRTeHIzMVg3L3EyT29xR091UnRuSWh0WHdkZXI4c2ltOGZsek1uek5pRVBXVDUyaUJCQ1RGeHRaWnRCV2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU4Nzc0CWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS4zLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMy4xCjJNYVRjbS9oaEdsQkF6WXZDMkEvOXQ3Q2VyZHVFNDcxclRCdFBZMkIzSDRpNVN3alJ4ZW1TejZwNnlkZmVhS01JU2lBa2dHUGh3RSt2OGJXS2N0cEJRPT0K",
+                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.3.1/Bernas-Soundpacks-Setup.exe"
                                          }
                   },
-    "pub_date":  "2026-11-08T17:12:44Z",
-    "version":  "1.3.0",
-    "notes":  "Novo cargo Proprietário: apenas o dono pode criar administradores, atribuir e remover acessos. Barra de janela integrada no tema com minimizar, maximizar/restaurar e fechar. Removido Your Sound. Your Game. da interface e do título."
+    "pub_date":  "2026-11-08T17:26:15Z",
+    "version":  "1.3.1",
+    "notes":  "Login mantido ao fechar e reabrir a app. Sessão cifrada com proteção do Windows, sem guardar a palavra-passe nem tokens em texto simples. Terminar sessão remove a sessão guardada; permissões continuam verificadas no servidor."
 }
