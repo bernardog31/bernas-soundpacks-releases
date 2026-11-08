@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOE8raWlEcCtXdnBITUZod0R3NEhRS2VBQjVnaTBzQTJFQnhiLzNtWFdnOXhneE91aXJhUDdwVzNnbDhyeWY0MzgrMlJkaE5ka3NXVzhocFFVTTA0d3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU2MDc5CWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMi4wCkxNVkgxbVN3dUozUUlodG9zanBPdGRDbkdvc3lCNW9jSmRscTNZaWJTblpyb2VCUnJ4cE5rb3JxNjh3akEycnJQa1VHYkczZHVMSDJmOHJ2dlVWL0JBPT0K",
-                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.2.0/Bernas-Soundpacks-1.2.0-Setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOFBiRkFZUmhkYVdkc3lsRHFtSzh4UnNqUGNVeDB0YjVneEd1TG90UVRGc3AxV2JPQUVHVFYzRzg3OGFJUlN5N05iY1ZjYzh0bEVRMWxtS3FZaE0xM0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU2NjkzCWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS4yLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMi4xCnZ0QVh5STFKM0N0SEtQUytPeGtxVW8yVGliUHgyRWplK1pWdFgxMnlSMEFoMHMvK1g3SXlXS1JMTlZOWmlmUzlyM3ZDMEtpd1U3VjNLOHBFNWZ2c0NnPT0K",
+                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.2.1/Bernas-Soundpacks-Setup.exe"
                                          }
                   },
-    "pub_date":  "2026-11-08T16:41:19Z",
-    "version":  "1.2.0",
-    "notes":  "Atualizações internas assinadas, aviso de nova versão e procura nas Definições. Inclui eliminação protegida de categorias e remoção do bloco Bernas App Family."
+    "pub_date":  "2026-11-08T16:51:33Z",
+    "version":  "1.2.1",
+    "notes":  "Instalador com o nome Bernas-Soundpacks-Setup.exe. Versão da aplicação removida da barra lateral e mantida apenas nas Definições."
 }
