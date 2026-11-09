@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEUweGc0cVdGYkJ6VXA0c2txUWE5QU9pUFRTeHIzMVg3L3EyT29xR091UnRuSWh0WHdkZXI4c2ltOGZsek1uek5pRVBXVDUyaUJCQ1RGeHRaWnRCV2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU4Nzc0CWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS4zLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMy4xCjJNYVRjbS9oaEdsQkF6WXZDMkEvOXQ3Q2VyZHVFNDcxclRCdFBZMkIzSDRpNVN3alJ4ZW1TejZwNnlkZmVhS01JU2lBa2dHUGh3RSt2OGJXS2N0cEJRPT0K",
-                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.3.1/Bernas-Soundpacks-Setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOERJT0pueGo4ZTVzOTVKOFdYVVJNNzM5TjczbDJaTDVMbzFnd2JaOFRVOVRvRGsvMnhnMGQ4aGNQR0FTc2EvYk94SmgrdC8yR0FhNTRJbmhyL1h0RUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU5Mzk3CWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS40LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNC4wCjBvL2VHQkE0eDFpNi9DbkpYV2tidjlKaEJyL2RLRjdXNDArK3lpUDNaV05mNFo5OHhxQ0VHdWVQNDFjOFZIODFLRHVzdi9IWjEyU0IzTWdaNWV0K0NBPT0K",
+                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.4.0/Bernas-Soundpacks-Setup.exe"
                                          }
                   },
-    "pub_date":  "2026-11-08T17:26:15Z",
-    "version":  "1.3.1",
-    "notes":  "Login mantido ao fechar e reabrir a app. Sessão cifrada com proteção do Windows, sem guardar a palavra-passe nem tokens em texto simples. Terminar sessão remove a sessão guardada; permissões continuam verificadas no servidor."
+    "pub_date":  "2026-11-08T17:36:38Z",
+    "version":  "1.4.0",
+    "notes":  "Formulário de Soundpacks simplificado: sem descrição, slug, tags, versão manual ou notas. Histórico e numeração dos ZIPs geridos automaticamente. Prévias de áudio ou vídeo MP4 até 50 MB, com leitor de vídeo na app; dados antigos preservados."
 }
