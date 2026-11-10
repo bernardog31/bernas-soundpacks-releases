@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEwyRFNzWEw0d3ZYQTNTMjJKd3czb2tvbENudWtlRmpqRTUwRitlS0Fhb1pJSjg5S2JUaDZVUjZaR1pOYjZVMERFUzJlc1VDNWVhZGM2c0lCSmRLTmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQ3ODMzCWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS41LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNS4xCnQ4UWQ4RkhaWmZ5VmthcU9ZL2x1SzFrRU9jZ1pBTUFWU0w0Wkx2Mis1Umc2V2pMTjlnbXpac1J3WHFBbUJiZzh3MUI2SU11eXM0ejU1VFdtWDZON0NRPT0K",
-                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.5.1/Bernas-Soundpacks-Setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEZFM2o0a0R5QlpPcytYamdiK2JIMmdKaVpUbGhrVVFuYzBtaDhNcFd5T09sWURhSCtiUmdjOFRuWld2aFRFOVRLQUxSSWhyd0hqM3dGMDVJNk5yZFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQ5NjcyCWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS42LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNi4xClZCSXluazlFL3JOQzFnNi9YOU9NUUkxNUxCNW1oUE44KzJJN014NlBvaHFIM1Z1bnVROFZaMXdFa29uZGtxaVM2b0FNTUpCcmZIbm1LYmlLcWtWL0JnPT0K",
+                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.6.1/Bernas-Soundpacks-Setup.exe"
                                          }
                   },
-    "pub_date":  "2026-11-10T21:57:14Z",
-    "version":  "1.5.1",
-    "notes":  "Downloads GitHub de ZIPs grandes com até quatro ligações em paralelo e escrita em disco otimizada. Mantém validação de intervalos, tamanho, SHA-256, cancelamento e proteção contra substituição de ficheiros. Velocidade depende da ligação e do GitHub."
+    "pub_date":  "2026-11-10T22:27:53Z",
+    "version":  "1.6.1",
+    "notes":  "Publicador detetado automaticamente pela conta que publica ou envia um novo ZIP publicado, sem seleção manual. Nomes públicos por administrador configurados pelo proprietário e créditos na biblioteca. Removidos Como instalar, textos de instalação manual e histórico visível dos detalhes."
 }
