@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOERjTDdOcmFObkZhTHorOXh1UzV3L2pPdGlyaWdzQ0JjbzZoK255S3RPOG5scDBSSXprdVlvRElQQ0VON3lvSFdMUmpESXpCMlN0QnZwbk4vb0pia1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQ2OTcwCWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS41LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNS4wCk80bkFEbGNGME9MZlAvcGt3c3Y3Q2Q0bExuc3kzL3RuUUVCaWI2YkQ1VTM1QlpLNFJIT3lNbGlEZ3Y4RjhUZUpQQ29rR1VvMndmZjNXanJZUTdja0NRPT0K",
-                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.5.0/Bernas-Soundpacks-Setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEwyRFNzWEw0d3ZYQTNTMjJKd3czb2tvbENudWtlRmpqRTUwRitlS0Fhb1pJSjg5S2JUaDZVUjZaR1pOYjZVMERFUzJlc1VDNWVhZGM2c0lCSmRLTmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQ3ODMzCWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS41LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNS4xCnQ4UWQ4RkhaWmZ5VmthcU9ZL2x1SzFrRU9jZ1pBTUFWU0w0Wkx2Mis1Umc2V2pMTjlnbXpac1J3WHFBbUJiZzh3MUI2SU11eXM0ejU1VFdtWDZON0NRPT0K",
+                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.5.1/Bernas-Soundpacks-Setup.exe"
                                          }
                   },
-    "pub_date":  "2026-11-10T21:42:50Z",
-    "version":  "1.5.0",
-    "notes":  "MP4 sem nome visível por cima do vídeo. Novos downloads usam o nome do ZIP escolhido ao publicar. Novos pacotes RPF com pasta exterior comum são preparados sem essa pasta, preservando o original e os subdiretórios internos. Packs antigos precisam de reenviar o ZIP para corrigir a estrutura."
+    "pub_date":  "2026-11-10T21:57:14Z",
+    "version":  "1.5.1",
+    "notes":  "Downloads GitHub de ZIPs grandes com até quatro ligações em paralelo e escrita em disco otimizada. Mantém validação de intervalos, tamanho, SHA-256, cancelamento e proteção contra substituição de ficheiros. Velocidade depende da ligação e do GitHub."
 }
