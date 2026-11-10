@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOERJT0pueGo4ZTVzOTVKOFdYVVJNNzM5TjczbDJaTDVMbzFnd2JaOFRVOVRvRGsvMnhnMGQ4aGNQR0FTc2EvYk94SmgrdC8yR0FhNTRJbmhyL1h0RUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU5Mzk3CWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS40LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNC4wCjBvL2VHQkE0eDFpNi9DbkpYV2tidjlKaEJyL2RLRjdXNDArK3lpUDNaV05mNFo5OHhxQ0VHdWVQNDFjOFZIODFLRHVzdi9IWjEyU0IzTWdaNWV0K0NBPT0K",
-                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.4.0/Bernas-Soundpacks-Setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOERjTDdOcmFObkZhTHorOXh1UzV3L2pPdGlyaWdzQ0JjbzZoK255S3RPOG5scDBSSXprdVlvRElQQ0VON3lvSFdMUmpESXpCMlN0QnZwbk4vb0pia1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQ2OTcwCWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS41LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNS4wCk80bkFEbGNGME9MZlAvcGt3c3Y3Q2Q0bExuc3kzL3RuUUVCaWI2YkQ1VTM1QlpLNFJIT3lNbGlEZ3Y4RjhUZUpQQ29rR1VvMndmZjNXanJZUTdja0NRPT0K",
+                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.5.0/Bernas-Soundpacks-Setup.exe"
                                          }
                   },
-    "pub_date":  "2026-11-08T17:36:38Z",
-    "version":  "1.4.0",
-    "notes":  "Formulário de Soundpacks simplificado: sem descrição, slug, tags, versão manual ou notas. Histórico e numeração dos ZIPs geridos automaticamente. Prévias de áudio ou vídeo MP4 até 50 MB, com leitor de vídeo na app; dados antigos preservados."
+    "pub_date":  "2026-11-10T21:42:50Z",
+    "version":  "1.5.0",
+    "notes":  "MP4 sem nome visível por cima do vídeo. Novos downloads usam o nome do ZIP escolhido ao publicar. Novos pacotes RPF com pasta exterior comum são preparados sem essa pasta, preservando o original e os subdiretórios internos. Packs antigos precisam de reenviar o ZIP para corrigir a estrutura."
 }
