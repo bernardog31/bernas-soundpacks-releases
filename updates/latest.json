@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEZFM2o0a0R5QlpPcytYamdiK2JIMmdKaVpUbGhrVVFuYzBtaDhNcFd5T09sWURhSCtiUmdjOFRuWld2aFRFOVRLQUxSSWhyd0hqM3dGMDVJNk5yZFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQ5NjcyCWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS42LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNi4xClZCSXluazlFL3JOQzFnNi9YOU9NUUkxNUxCNW1oUE44KzJJN014NlBvaHFIM1Z1bnVROFZaMXdFa29uZGtxaVM2b0FNTUpCcmZIbm1LYmlLcWtWL0JnPT0K",
-                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.6.1/Bernas-Soundpacks-Setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEV3OVd4alNJMkk4cUduTmJTTmxQRVVkNWpGOGsybjJuRENFcHlYR0oyNFB0YkJ4bEZLY0VTMkdGS1NoWWtJNnBwdm1UTmhqa0d6UWpnS2xveE03bndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzUwNTc1CWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS42LjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNi4yCi9VRUVVZVVUSEZYbjRmYVVNT21xcVF4QkZSdDdLOW1NcGVaUllPNlVIVmk2UDdHRncrcHh3aTdSL0R5eVZpRWRxaW90WktjblM3aVZIekZiSUg3cERBPT0K",
+                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.6.2/Bernas-Soundpacks-Setup.exe"
                                          }
                   },
-    "pub_date":  "2026-11-10T22:27:53Z",
-    "version":  "1.6.1",
-    "notes":  "Publicador detetado automaticamente pela conta que publica ou envia um novo ZIP publicado, sem seleção manual. Nomes públicos por administrador configurados pelo proprietário e créditos na biblioteca. Removidos Como instalar, textos de instalação manual e histórico visível dos detalhes."
+    "pub_date":  "2026-11-10T22:42:56Z",
+    "version":  "1.6.2",
+    "notes":  "Nome do publicador destacado num badge rosa à direita da capa, na mesma linha da categoria. Categoria mantida à esquerda no sítio original. Nos cartões aparece apenas o nome, sem o texto Publicado por."
 }
