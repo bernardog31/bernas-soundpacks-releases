@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEZMcVJGWnJmWDM4YUs4dlk2d3ZFY1B1ZEkxdm5ZMEMwWEZ3UXJLeGR1RWttVC9VUnVKZFNiT055L3hXdUc2YmsyS1BmeUxqSHhsdDJoRjNoa2tJNFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDEwNDE5CWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS42LjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNi41CkFjOG05bHd3VVNzelNPYW5MMUhaTC81OVFLRTJha0FpWFdrWFBBbk1UVjlpZlBtUjhBNGFLVmZGcEkxOUFhRmFmM0VCTVB5bTNYYitFRmxqSkNTNURnPT0K",
-                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.6.5/Bernas-Soundpacks-Setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEZ1c2t5N1JOZnhhSTFGeGdUejNvTWx0aG42L1h3NzdvZ285RnEzQVpxSW5QMDBJTzJZSnFkcGNPemZleGNqdGdTSmphSitYTGpOS3lCNVBSRVpPbmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDEzODE5CWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS42LjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNi42ClQyR05UcmJEbVhjbjZPZDNzYXBEM2hTc3ZhakZWMHlmeGQxTnhvbGVDU0krSElPRGxxYTE4YTdkMk5oUy9TOUlUbmhyTGxSNk44RnlIRU8yQkVUR0NRPT0K",
+                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.6.6/Bernas-Soundpacks-Setup.exe"
                                          }
                   },
-    "pub_date":  "2026-11-11T15:20:19Z",
-    "version":  "1.6.5",
-    "notes":  "Confirmações nativas aguardadas antes de operações administrativas, limpeza do histórico e instalação de atualizações. Cancelar ou uma falha no diálogo impede a operação. Linguagem em português, navegação administrativa reservada a contas autorizadas e estados vazios mais claros com ações úteis. Identidade visual e funcionalidades preservadas."
+    "pub_date":  "2026-11-11T16:17:00Z",
+    "version":  "1.6.6",
+    "notes":  "Texto da página inicial atualizado para ENCONTRA O TEU SOUNDPACK."
 }
