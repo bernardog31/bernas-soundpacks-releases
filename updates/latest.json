@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOE45T2p5Q1oxYmMyTGdpWjljZ2kwQmtySTRjUmVwb1Avc1RTaUlrK1lZblpkOWtzQ2p4SWIvTjJoRy9rRnN3dzNWSk8xWEZDN2EwcUkwOVd1UVovSnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA4NDQ1CWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS42LjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNi40CkM0QlZTWEZXVEJZZUovZk4vSVorcE9VeVZGbytqSGU5b3p0dkRNaTR0WUJCUWVTcFI3V3BDRlFDaUdiRGxiMENHQVNYYjY3NjFvSzlZb1VMWlVvS0JBPT0K",
-                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.6.4/Bernas-Soundpacks-Setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEZMcVJGWnJmWDM4YUs4dlk2d3ZFY1B1ZEkxdm5ZMEMwWEZ3UXJLeGR1RWttVC9VUnVKZFNiT055L3hXdUc2YmsyS1BmeUxqSHhsdDJoRjNoa2tJNFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDEwNDE5CWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS42LjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNi41CkFjOG05bHd3VVNzelNPYW5MMUhaTC81OVFLRTJha0FpWFdrWFBBbk1UVjlpZlBtUjhBNGFLVmZGcEkxOUFhRmFmM0VCTVB5bTNYYitFRmxqSkNTNURnPT0K",
+                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.6.5/Bernas-Soundpacks-Setup.exe"
                                          }
                   },
-    "pub_date":  "2026-11-11T14:47:26Z",
-    "version":  "1.6.4",
-    "notes":  "Administração mais compacta: Gestão de acessos, Os teus Soundpacks e Categorias ficam fechados por defeito e abrem ao clicar no título. Fechar uma secção preserva os campos preenchidos."
+    "pub_date":  "2026-11-11T15:20:19Z",
+    "version":  "1.6.5",
+    "notes":  "Confirmações nativas aguardadas antes de operações administrativas, limpeza do histórico e instalação de atualizações. Cancelar ou uma falha no diálogo impede a operação. Linguagem em português, navegação administrativa reservada a contas autorizadas e estados vazios mais claros com ações úteis. Identidade visual e funcionalidades preservadas."
 }
