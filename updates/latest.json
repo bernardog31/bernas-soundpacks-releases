@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEV3OVd4alNJMkk4cUduTmJTTmxQRVVkNWpGOGsybjJuRENFcHlYR0oyNFB0YkJ4bEZLY0VTMkdGS1NoWWtJNnBwdm1UTmhqa0d6UWpnS2xveE03bndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzUwNTc1CWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS42LjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNi4yCi9VRUVVZVVUSEZYbjRmYVVNT21xcVF4QkZSdDdLOW1NcGVaUllPNlVIVmk2UDdHRncrcHh3aTdSL0R5eVZpRWRxaW90WktjblM3aVZIekZiSUg3cERBPT0K",
-                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.6.2/Bernas-Soundpacks-Setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEZmVDkveG9RWWV5UFpGUTZvNERBOEZzN2NDczJZR2l6cDhja3djbU9CSjdOaW9KdkJ1U0QrU3JaOUxmK0k5VW1jN29EcTRrUWhqQThpRndNMTMzVmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA3NDQ0CWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS42LjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNi4zCmRLSk1Wc0FWcndDVUI1c2h6VlBFRWs2aFlFMVpKRGswQWNMMHorbU9vRzJqS3BVVXE3LzVDcUFKc0NUVCtrMEYwM2psZjZNZ1doQWIvRGlHTjVqOURnPT0K",
+                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.6.3/Bernas-Soundpacks-Setup.exe"
                                          }
                   },
-    "pub_date":  "2026-11-10T22:42:56Z",
-    "version":  "1.6.2",
-    "notes":  "Nome do publicador destacado num badge rosa à direita da capa, na mesma linha da categoria. Categoria mantida à esquerda no sítio original. Nos cartões aparece apenas o nome, sem o texto Publicado por."
+    "pub_date":  "2026-11-11T14:30:44Z",
+    "version":  "1.6.3",
+    "notes":  "Badge rosa do publicador abaixo do título, na zona inferior do cartão e alinhado à direita. Categoria PvP mantida no sítio original. Removido o espaço reservado para descrições vazias."
 }
