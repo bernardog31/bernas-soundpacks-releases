@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEtMakU1NEVMSTQ2NDAyek1jZGdLeFA2SmtjcTYweGJTbjMvZkw5RndnSkVESmNJbTVPL0hocng1bERxVjBOV1poZ010TTVnM08zWEtVWnVIajlNaVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDM4OTQwCWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS42LjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNi43CnBFaVQ2SVJJbmZ4ZVN4R2pwaGRJQ05BSVdZOWdLU1NubzZoY0lraWZTSmEwaGkwcmhkaUFHTktXRVRxbE9FYXFQMmozbm4yOXMvdmVKVTJLcWhveEF3PT0K",
-                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.6.7/Bernas-Soundpacks-Setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEtPOHFxdEI4SlpvRTdWa3F2bSsvVXp0dXExK0tnMGkzREFDNnoycHc2d2VsMlIxTk9sTFlNdlBtMlNPckRqWUhmTDB6TDhKd2VyRXBZeHBWa0tPRlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjE3NTM4CWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS43LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNy4wClBESGI2RncwU1NhSU9naVgzRHloOTJscmpJOEhsTnlkVTR4T01sVHd4b1Yxbm0zWjRlR216bWhyV1V2NEJ0c3ZCR3NpaVFIdjVjM3dQMFpza2JHWURBPT0K",
+                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.7.0/Bernas-Soundpacks-Setup.exe"
                                          }
                   },
-    "pub_date":  "2026-11-11T23:15:41Z",
-    "version":  "1.6.7",
-    "notes":  "Opção Apagar Soundpack exclusiva do proprietário, com confirmação nativa e autorização no servidor. Elimina o Soundpack e os registos associados do catálogo, mantendo os ficheiros alojados e os ZIPs já descarregados. Administradores comuns continuam a poder arquivar."
+    "pub_date":  "2026-11-20T23:32:18Z",
+    "version":  "1.7.0",
+    "notes":  "Tema de Natal com logótipo oficial e paleta dourado/vermelho. Em Definições, escolhe Natal ou Original; a preferência fica guardada neste computador. O tema original e os teus Soundpacks são preservados."
 }
