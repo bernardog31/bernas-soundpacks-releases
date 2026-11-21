@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEtPOHFxdEI4SlpvRTdWa3F2bSsvVXp0dXExK0tnMGkzREFDNnoycHc2d2VsMlIxTk9sTFlNdlBtMlNPckRqWUhmTDB6TDhKd2VyRXBZeHBWa0tPRlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjE3NTM4CWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS43LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNy4wClBESGI2RncwU1NhSU9naVgzRHloOTJscmpJOEhsTnlkVTR4T01sVHd4b1Yxbm0zWjRlR216bWhyV1V2NEJ0c3ZCR3NpaVFIdjVjM3dQMFpza2JHWURBPT0K",
-                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.7.0/Bernas-Soundpacks-Setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVjVueVRnUzRCOEpGaGVzZlRvaE93MGdKVVA3NzVyTXFGLzl0TG1QQ3VmMHgycVR0cms3SVNUTEFpRm5xNWU3amlwNUZFTmtLZzlmamVyblIwV3Q3S3Y0aHNiVGVkV1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjIwNjIwCWZpbGU6QmVybmFzIFNvdW5kcGFja3NfMS43LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNy4xCllVdmFzWi94b2tvc0F5Mk5xZzBnRWUrb2llUXg3RlBBZnhJbDFqcGJRQk41enJPSjN6UzVxVE9RVEI3aDU5NnR4cWhjVmlvSmhRYmtjSWNORm5ZdERBPT0K",
+                                             "url":  "https://github.com/bernardog31/bernas-soundpacks-releases/releases/download/app-v1.7.1/Bernas-Soundpacks-Setup.exe"
                                          }
                   },
-    "pub_date":  "2026-11-20T23:32:18Z",
-    "version":  "1.7.0",
-    "notes":  "Tema de Natal com logótipo oficial e paleta dourado/vermelho. Em Definições, escolhe Natal ou Original; a preferência fica guardada neste computador. O tema original e os teus Soundpacks são preservados."
+    "pub_date":  "2026-11-21T00:23:40Z",
+    "version":  "1.7.1",
+    "notes":  "Tema de Natal renovado com os SVG oficiais Bernas Soundpacks, gorro e neve, botões vermelhos e destaques dourados. Neve decorativa opcional, com respeito por movimento reduzido. Ícone Windows natalício. Tema Original e preferências anteriores preservados nas Definições."
 }
